@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "src/main/java/Feature/Assignment1.feature"
+		features = "src/main/java/Feature/Assignment2.feature"
 		,glue={"StepDefination"}
 		)
 
